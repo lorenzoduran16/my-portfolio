@@ -1,0 +1,6 @@
+{
+  "name": "Lorenzo Duran Portfolio",
+  "description": "An elegant, interactive single-page portfolio for Lorenzo Duran, Senior Software Engineer, featuring live architectural visualizations and dashboard simulators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
